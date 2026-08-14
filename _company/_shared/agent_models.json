@@ -1,3 +1,12 @@
 {
-  "youtube": "kimi-k2.7-code:cloud"
+  "ceo": "glm-5.2:cloud",
+  "youtube": "kimi-k2.7-code:cloud",
+  "instagram": "kimi-k2.6:cloud",
+  "designer": "kimi-k2.7-code:cloud",
+  "developer": "glm-5.2:cloud",
+  "business": "minimax-m3:cloud",
+  "secretary": "kimi-k2.6:cloud",
+  "editor": "qwen3.5:cloud",
+  "writer": "kimi-k2.7-code:cloud",
+  "researcher": "kimi-k2.7-code:cloud"
 }
